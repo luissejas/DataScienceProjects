@@ -22,6 +22,7 @@ Then we pre-process to train machine learning algorithms with it.
 Finally we compare different methods to see which is the best fit and also tune it.
 
 **Machine Learning Concepts**
+
 These projects are concepts of machine learning applied in class, also done in groups.
 On every branch there is a pdf of each notebook which explain thoroughly the application
 of each process.
