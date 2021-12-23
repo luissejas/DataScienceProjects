@@ -1,0 +1,7 @@
+Hi!
+
+This project is a fasttext model employed to classify news headlines into Sarcastic (label_positive) and Non-Sarcastic (label_negative)
+
+This is the link for the dataset, and I have also let a public notebook in kaggle.
+
+Enjoy!
