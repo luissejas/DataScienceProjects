@@ -1,0 +1,19 @@
+Welcome to the IMDB Dataset README!
+
+Here you will find a series of NLP models for the Stanford IMDB Movie Dataset.
+
+The models employed are:
+
+- TF-IDF
+  - Random Forest
+  - Logistic Regression
+  
+- LSTM Neural Network
+  - Pre-trained Word Embedding
+  - Self-created Word Embedding
+
+- Fasttext Model
+
+- BERT
+  - With Huggingface Transformers Library
+  - With Ktrain
