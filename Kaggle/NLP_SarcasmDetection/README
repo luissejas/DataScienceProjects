@@ -4,4 +4,10 @@ This project is a fasttext model employed to classify news headlines into Sarcas
 
 This is the link for the dataset, and I have also let a public notebook in kaggle.
 
+Kaggle Notebook
+https://www.kaggle.com/luissejas/sarcasmdetection-fasttext-90-f1-score
+
+Original Link
+https://www.kaggle.com/theynalzada/news-headlines-for-sarcasm-detection
+
 Enjoy!
