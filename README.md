@@ -21,18 +21,11 @@ There together with a group we clean and explore the data.
 Then we pre-process to train machine learning algorithms with it.
 Finally we compare different methods to see which is the best fit and also tune it.
 
-**Machine Learning Concepts**
+**Deep Dive NLP**
 
-These projects are concepts of machine learning applied in class, also done in groups.
-On every branch there is a pdf of each notebook which explain thoroughly the application
-of each process.
+IMDB Dataset Project
+  Project where a number of NLP models were employed.
+ 
+Kaggle
+  On my free time, I might engage into some Kaggle Projects.
 
-MCMC_MetropolisHastings
-
-Classifier_Methods
-
-Kernels
-
-PCA_Analysis
-
-SIRD_Model
